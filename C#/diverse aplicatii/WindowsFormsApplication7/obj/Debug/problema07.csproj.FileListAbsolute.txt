@@ -1,0 +1,8 @@
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\problema07.csproj.GenerateResource.Cache
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication8.pdb

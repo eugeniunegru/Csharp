@@ -1,0 +1,9 @@
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication12\obj\Debug\Calculator.Form1.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csprojResolveAssemblyReference.cache

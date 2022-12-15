@@ -1,0 +1,8 @@
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\problema02.csproj.GenerateResource.Cache
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

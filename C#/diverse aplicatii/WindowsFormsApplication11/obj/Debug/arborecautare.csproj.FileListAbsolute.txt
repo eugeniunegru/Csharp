@@ -1,0 +1,9 @@
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication11\bin\Debug\BinaryTree.exe.config
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication11\obj\Debug\BinaryTree.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication11\obj\Debug\BinaryTree.pdb
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication11\bin\Debug\BinaryTree.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication11\bin\Debug\BinaryTree.pdb
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication11\obj\Debug\arborecautare.csprojResolveAssemblyReference.cache
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication11\obj\Debug\BinaryTree.Form1.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication11\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication11\obj\Debug\arborecautare.csproj.GenerateResource.Cache

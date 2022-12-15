@@ -1,0 +1,20 @@
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\problema06.csprojResolveAssemblyReference.cache
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication7\obj\Debug\problema06.csproj.GenerateResource.Cache
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication6\obj\Debug\problema06.csproj.GenerateResource.Cache
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication6\obj\Debug\problema06.csprojResolveAssemblyReference.cache

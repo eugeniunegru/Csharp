@@ -1,0 +1,8 @@
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication11\obj\Debug\MiniPaint.Form1.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb

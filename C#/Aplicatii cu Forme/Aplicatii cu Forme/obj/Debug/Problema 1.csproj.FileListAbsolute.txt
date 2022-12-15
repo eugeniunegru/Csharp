@@ -1,0 +1,10 @@
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Aplicatii cu Forme\bin\Debug\Aplicatii cu Forme.exe.config
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Aplicatii cu Forme\bin\Debug\Aplicatii cu Forme.exe
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Aplicatii cu Forme\bin\Debug\Aplicatii cu Forme.pdb
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Aplicatii cu Forme\obj\Debug\Problema 1.csprojResolveAssemblyReference.cache
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Aplicatii cu Forme\obj\Debug\Aplicatii_cu_Forme.Form1.resources
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Aplicatii cu Forme\obj\Debug\Aplicatii_cu_Forme.IntroNume.resources
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Aplicatii cu Forme\obj\Debug\Aplicatii_cu_Forme.Properties.Resources.resources
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Aplicatii cu Forme\obj\Debug\Problema 1.csproj.GenerateResource.Cache
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Aplicatii cu Forme\obj\Debug\Aplicatii cu Forme.exe
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Aplicatii cu Forme\obj\Debug\Aplicatii cu Forme.pdb

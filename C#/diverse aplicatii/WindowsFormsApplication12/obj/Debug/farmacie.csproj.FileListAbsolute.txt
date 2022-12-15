@@ -1,0 +1,30 @@
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\farmacie.csprojResolveAssemblyReference.cache
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\farmacie.csproj.GenerateResource.Cache
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\farmacie.csprojResolveAssemblyReference.cache
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\farmacie.csproj.GenerateResource.Cache
+C:\Users\romanciucanton\Desktop\prj\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\romanciucanton\Desktop\prj\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\romanciucanton\Desktop\prj\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication12\obj\Debug\farmacie.csproj.GenerateResource.Cache
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication12\obj\Debug\farmacie.csprojResolveAssemblyReference.cache

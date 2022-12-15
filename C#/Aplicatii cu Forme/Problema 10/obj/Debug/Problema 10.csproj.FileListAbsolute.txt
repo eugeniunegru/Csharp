@@ -1,0 +1,8 @@
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Problema 10\bin\Debug\Problema 10.exe.config
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Problema 10\obj\Debug\Problema_10.Form1.resources
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Problema 10\obj\Debug\Problema_10.Properties.Resources.resources
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Problema 10\obj\Debug\Problema 10.csproj.GenerateResource.Cache
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Problema 10\bin\Debug\Problema 10.exe
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Problema 10\bin\Debug\Problema 10.pdb
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Problema 10\obj\Debug\Problema 10.exe
+c:\users\student.cfbc\documents\visual studio 2013\Projects\Aplicatii cu Forme\Problema 10\obj\Debug\Problema 10.pdb

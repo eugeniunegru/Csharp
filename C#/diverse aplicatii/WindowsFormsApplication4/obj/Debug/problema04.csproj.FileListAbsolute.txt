@@ -1,0 +1,12 @@
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\romanciucanton\Desktop\Projects\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\problema04.csprojResolveAssemblyReference.cache
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\problema04.csproj.GenerateResource.Cache
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb

@@ -1,0 +1,8 @@
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb

@@ -1,0 +1,6 @@
+c:\users\temp\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\temp\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\temp\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\romanciucanton\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

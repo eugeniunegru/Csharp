@@ -1,0 +1,8 @@
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\MyNotepad.Main.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\MyNotepad.FindDialog.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\MyNotepad.ReplaceDialog.resources
+C:\Users\romanciucanton\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication9\obj\Debug\MyNotepad.SaveChangesPrompt.resources

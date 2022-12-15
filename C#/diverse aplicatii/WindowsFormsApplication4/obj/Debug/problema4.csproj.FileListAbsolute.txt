@@ -1,0 +1,11 @@
+C:\Users\student.CFBC\Documents\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\student.CFBC\Documents\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\student.CFBC\Documents\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\problema4.csproj.GenerateResource.Cache
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\ionut\Desktop\Projects\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
