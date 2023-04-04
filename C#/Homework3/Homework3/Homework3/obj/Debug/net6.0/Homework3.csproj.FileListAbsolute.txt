@@ -1,0 +1,30 @@
+C:\Users\temp\source\repos\Homework3\Homework3\obj\Debug\net6.0\Homework3.csproj.AssemblyReference.cache
+C:\Users\temp\source\repos\Homework3\Homework3\obj\Debug\net6.0\Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temp\source\repos\Homework3\Homework3\obj\Debug\net6.0\Homework3.AssemblyInfoInputs.cache
+C:\Users\temp\source\repos\Homework3\Homework3\obj\Debug\net6.0\Homework3.AssemblyInfo.cs
+C:\Users\temp\source\repos\Homework3\Homework3\obj\Debug\net6.0\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\temp\source\repos\Homework3\Homework3\bin\Debug\net6.0\Homework3.exe
+C:\Users\temp\source\repos\Homework3\Homework3\bin\Debug\net6.0\Homework3.deps.json
+C:\Users\temp\source\repos\Homework3\Homework3\bin\Debug\net6.0\Homework3.runtimeconfig.json
+C:\Users\temp\source\repos\Homework3\Homework3\bin\Debug\net6.0\Homework3.dll
+C:\Users\temp\source\repos\Homework3\Homework3\bin\Debug\net6.0\Homework3.pdb
+C:\Users\temp\source\repos\Homework3\Homework3\obj\Debug\net6.0\Homework3.dll
+C:\Users\temp\source\repos\Homework3\Homework3\obj\Debug\net6.0\refint\Homework3.dll
+C:\Users\temp\source\repos\Homework3\Homework3\obj\Debug\net6.0\Homework3.pdb
+C:\Users\temp\source\repos\Homework3\Homework3\obj\Debug\net6.0\Homework3.genruntimeconfig.cache
+C:\Users\temp\source\repos\Homework3\Homework3\obj\Debug\net6.0\ref\Homework3.dll
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\obj\Debug\net6.0\Homework3.csproj.AssemblyReference.cache
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\obj\Debug\net6.0\Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\obj\Debug\net6.0\Homework3.AssemblyInfoInputs.cache
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\obj\Debug\net6.0\Homework3.AssemblyInfo.cs
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\obj\Debug\net6.0\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\obj\Debug\net6.0\Homework3.dll
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\obj\Debug\net6.0\refint\Homework3.dll
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\obj\Debug\net6.0\Homework3.pdb
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\bin\Debug\net6.0\Homework3.exe
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\bin\Debug\net6.0\Homework3.deps.json
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\bin\Debug\net6.0\Homework3.runtimeconfig.json
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\bin\Debug\net6.0\Homework3.dll
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\bin\Debug\net6.0\Homework3.pdb
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\obj\Debug\net6.0\Homework3.genruntimeconfig.cache
+C:\Users\eugeniu.negru\Documents\Visual Studio 2022\Templates\Homework3\Homework3\Homework3\obj\Debug\net6.0\ref\Homework3.dll
