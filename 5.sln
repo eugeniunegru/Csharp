@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformMetrics", "TransformMetrics.csproj", "{35C30631-0211-48BD-95C1-2BB57C31873E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C30631-0211-48BD-95C1-2BB57C31873E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C30631-0211-48BD-95C1-2BB57C31873E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C30631-0211-48BD-95C1-2BB57C31873E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C30631-0211-48BD-95C1-2BB57C31873E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F2DC667-CE62-47A2-832B-2B8943371444}
+	EndGlobalSection
+EndGlobal
